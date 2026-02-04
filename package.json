@@ -1,0 +1,27 @@
+{
+  "name": "supply-chain-synthesizer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Supply chain management system with IPFS and Polygon integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "polygon",
+    "ipfs",
+    "supply-chain"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "pinata": "^1.0.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^3.1.6"
+  }
+}
