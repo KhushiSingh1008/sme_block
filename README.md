@@ -28,6 +28,3 @@ sme_block/
 - Access control ensures only authorized parties can modify orders
 - Secret key never stored on-chain, only its hash
 
-## License
-
-MIT
